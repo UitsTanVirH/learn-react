@@ -1,6 +1,7 @@
 # Table of contents
 ```
 Components
+Event handler
 Hooks
 Props
 ```
@@ -9,6 +10,11 @@ Props
 ```
 A component is a function which always must return something inside that function, Generally it's a jsx template
 ```
+# Event Handler
+```
+onClick
+```
+
 # Hooks
 ```
 A hook is a function that does certain thingss and starts with the word "use"
