@@ -23,3 +23,4 @@ A hook is a function that does certain thingss and starts with the word "use"
 ```
 Props are a way to pass data from parent component to child component
 ```
+# react fregment <> </>
