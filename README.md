@@ -1,31 +1,3 @@
-<<<<<<< HEAD
-# Table of contents
-```
-Components
-Event handler
-Hooks
-Props
-```
-
-# Components
-```
-A component is a function which always must return something inside that function, Generally it's a jsx template
-```
-# Event Handler
-```
-onClick
-```
-
-# Hooks
-```
-A hook is a function that does certain thingss and starts with the word "use"
-```
-# Props
-```
-Props are a way to pass data from parent component to child component
-```
-# react fregment <> </>
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -96,4 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 9625dab (Initialize project using Create React App)
